@@ -6,3 +6,6 @@
 
 # 3. Black granite-finish stockpot with glass lid on an induction cooktop, beside a bowl of fresh mushrooms
    <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/24ac03fb-3275-4a6f-bb62-5473a9d12ae6" />
+
+# 4. Tempered steel pot with traditional elven soup, cooked in a dwarwen magma oven
+   <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b7850e0d-ddb2-45ee-9c32-f84de95b4574" />
