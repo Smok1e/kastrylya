@@ -9,3 +9,6 @@
 
 # 4. Tempered steel pot with traditional elven soup, cooked in a dwarwen magma oven
    <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b7850e0d-ddb2-45ee-9c32-f84de95b4574" />
+
+# 5. Old, heavily sooted metal pots with lids simmering on a worn gas stove in a grimy kitchen
+   <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/dc50514a-4145-4be5-8069-6e1c8177449b" />
